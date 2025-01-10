@@ -86,10 +86,5 @@ This project is a simple chat application that uses a client-server model with a
 - Implement private messaging between specific clients.
 - Enhance the GUI with more features like displaying active users.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 This README provides a clear overview of how the chat application works, how to set it up, and the main components of the code.
